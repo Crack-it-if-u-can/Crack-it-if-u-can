@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crack-it-if-u-can
+- 👋 Hi, I’m @ish
 - 👀 I’m interested in learning new languages and develop myself
 - 🌱 I’m currently learning dart in flutter
 - 💞️ I’m looking to collaborate on new companies for my internship
